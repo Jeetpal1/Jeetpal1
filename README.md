@@ -1,7 +1,9 @@
 <h1 align="Center">  Hey, this is Jeetpal 👋  </h1>
 
+<h3>Check Out My Website: 👇</h3><a href="https://jeetpal-singh.web.app/">https://jeetpal-singh.web.app/</a>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in the University of Winnipeg 👨‍🎓
+I'm a Software Developer 👨‍💻, Currently in my final year at the University of Winnipeg 👨‍🎓
 
 ----
 
@@ -30,7 +32,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in th
 ## Contact 
 
 <p id="contact-me">
-<a href="https://jeetpal-singh.web.app/">https://jeetpal-singh.web.app/</a>
   
 <a href="https://www.linkedin.com/in/jeetpal-singh-8630a61aa/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jeetpal-Singh" height="25" width="25" /> Jeetpal-singh</a>
   
