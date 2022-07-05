@@ -1,15 +1,12 @@
-### Hi there 👋
-![image](https://user-images.githubusercontent.com/70360391/177390562-6069865e-751d-4b53-8794-ca48446fd09d.png)
-
-### Hey Sourav here 👋
+### Hey Jeetpal here 👋
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/Jeetpal1/Jeetpal1/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Software Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
@@ -76,9 +73,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@jeetpalsingh)
 
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/jeetpalsingh/Github-Cards-External-Blogs) 
 
 ---
 
