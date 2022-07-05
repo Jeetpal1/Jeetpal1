@@ -1,4 +1,4 @@
-<h1 align="Center">  Hey, this is Jeetpal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hey, this is Jeetpal <img src="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J" width="40px" /> </h1>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in the University of Winnipeg 👨‍🎓
 
@@ -19,7 +19,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in th
 
 ## Some Stats About Me
 
-<img  width="400" alt="Jeetpal's github stats" src="https://github-readme-stats.vercel.app/api?username=Jeetpal1h&show_icons=true&theme=merko">
+![Jeetpal's github stats](https://github-readme-stats.vercel.app/api?username=jeetpal1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <img  width="400" alt="Jeetpal's languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetpal1&langs_count=10&theme=tokyonight&layout=compact" >
 
