@@ -34,6 +34,7 @@ I'm a Software Developer 👨‍💻, Currently in my final year at the Universi
 <p id="contact-me">
   
 <a href="https://jeetpal-singh.web.app/">https://jeetpal-singh.web.app/</a>
+  
 <a href="https://www.linkedin.com/in/jeetpal-singh-8630a61aa/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jeetpal-Singh" height="25" width="25" /> Jeetpal-singh</a>
   
 <a href="https://medium.com/@jeetpalsingh" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@jeetpalsingh" height="25" width="25" /> @jeetpalsingh</a>
