@@ -1,5 +1,6 @@
 <h1 align="Center">  Hey, this is Jeetpal <img src="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J" width="40px" /> </h1>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in the University of Winnipeg 👨‍🎓
 
 ----
