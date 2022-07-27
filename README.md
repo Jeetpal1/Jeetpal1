@@ -12,7 +12,7 @@ I'm a Software Developer 👨‍💻, Currently in my final year at the Universi
 - ⚙️: **Back-end**: Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Firebase, MySQL, PostgreSQL
 - ☁️: **Cloud**: Google Cloud Platform
 - 🔖: **General Purpose**: Java, JavaScript, Python
-- 💻: **Devops**: Git, Docker, Slack, GitHub
+- 💻: **Devops**: Git, Docker, Slack, GitHub, Trello, GitLab
 - 🤔: **Others**: React Native, APIs
 - 🔧: **Experimenting now**:  GoLang, TypeScript, Next.js, Meteor.js, AWS, Flutter, Azure
 - 👐: Have an interesting idea? Need mentorship? [Contact me](#contact-me)
