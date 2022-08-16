@@ -1,6 +1,6 @@
 <h1 align="Center">  Hey, this is Jeetpal 👋  </h1>
 
-<h3>Check Out My Website:👉 <a href="https://jeetpal-singh.web.app/">https://jeetpal-singh.web.app/</a></h3>
+<h3>Check Out My Website:👉 <a href="https://jeetpal-singh.web.app/">https://jeetpal.web.app/</a></h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I'm a Software Developer 👨‍💻, Currently in my final year at the University of Winnipeg 👨‍🎓
