@@ -9,7 +9,7 @@ I'm a Software Developer 👨‍💻, Currently in my final year at the Universi
 
 ## Skills
 - 📰: **Front-end**: HTML, React.js, Cesium.js, Electron.js, Handlebars, Pug, CSS, Bootstrap, materialistic.css
-- ⚙️: **Back-end**: Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Firebase, MySQL, PostgreSQL
+- ⚙️: **Back-end**: Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Firebase 
 - ☁️: **Cloud**: Google Cloud Platform
 - 🔖: **General Purpose**: Java, JavaScript, Python
 - 💻: **Devops**: Git, Docker, Slack, GitHub, Trello, GitLab
