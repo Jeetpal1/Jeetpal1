@@ -10,11 +10,11 @@ I'm a Software Developer 👨‍💻, Currently in my final year at the Universi
 ## Skills
 - 📰: **Front-end**: HTML, React.js, Next.js, Cesium.js, Electron.js, Tailwind CSS, Handlebars, Pug, CSS, Bootstrap, materialistic.css
 - ⚙️: **Back-end**: Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Firebase 
-- ☁️: **Cloud**: Google Cloud Platform
+- ☁️: **Cloud**: AWS, Google Cloud Platform (Firebase), Azure
 - 🔖: **General Purpose**: Java, JavaScript, Python
-- 💻: **Devops**: Git, Docker, Slack, GitHub, Trello, GitLab
+- 💻: **Devops**: Git, Docker + Kubernetes, Slack, GitHub, Trello, GitLab
 - 🤔: **Others**: React Native, APIs
-- 🔧: **Experimenting now**:  GoLang, TypeScript, Next.js, Meteor.js, AWS, Flutter, Azure
+- 🔧: **Experimenting now**:  PostGIS, QGIS, GeoPandas, Rasterio, Shapely, and other interesting tools
 - 👐: Have an interesting idea? Need mentorship? [Contact me](#contact-me)
 
 
