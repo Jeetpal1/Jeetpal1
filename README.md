@@ -3,7 +3,7 @@
 <h3>Check Out My Website:👉 <a href="https://jeetpalsingh.com/">https://jeetpalsingh.com/</a></h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-I'm a Software Developer 👨‍💻, Currently in my final year at the University of Winnipeg 👨‍🎓
+I work as a full-time Full Stack Software Developer 👨‍💻, I obtained my BSc. in Computer Sci. at the University of Winnipeg 👨‍🎓
 
 ----
 
