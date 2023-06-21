@@ -46,6 +46,4 @@
   <a href="https://medium.com/@jeetpalsingh" target="_blank">Medium</a>
 </p>
 
-Get in touch with me through any of the provided channels. Let's connect
-
- and create something amazing together!
+Get in touch with me through any of the provided channels. Let's connect and create something amazing together!
