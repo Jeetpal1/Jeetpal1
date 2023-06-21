@@ -6,7 +6,7 @@
   <a href="https://medium.com/@jeetpalsingh" target="_blank"><img src="https://img.shields.io/badge/Medium-@jeetpalsingh-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"></p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350"></p>
 
 👨‍💻 I'm a full-time Full Stack Software Developer with a passion for delivering outstanding solutions. Graduated with a BSc. in Computer Science from the University of Winnipeg, I thrive in challenging environments and create innovative, high-quality work.
 
