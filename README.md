@@ -28,9 +28,9 @@
 
 ## 📊 Some Stats About Me
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeetpal1&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=151515&hide_border=true" alt="Jeetpal's GitHub Stats">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetpal1&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="Jeetpal's Language Stats">
