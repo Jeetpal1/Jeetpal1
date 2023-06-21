@@ -14,8 +14,8 @@
 
 ## 💼 Skills
 
-- **Front-end**: HTML, React.js, Next.js, Cesium.js, Electron.js, Tailwind CSS, Handlebars, Pug, CSS, Bootstrap, materialistic.css
-- **Back-end**: Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Firebase 
+- **Front-end**: HTML, React.js (primary tech), Next.js (primary tech), Cesium.js, Electron.js, Tailwind CSS, Handlebars, Pug, CSS, Bootstrap, materialistic.css
+- **Back-end**: Node.js (primary tech), Express.js (primary tech), Django (basic), MySQL, PostgreSQL, MongoDB, Firebase 
 - **Cloud**: AWS, Google Cloud Platform (Firebase), Azure
 - **General Purpose**: Java, JavaScript, Python
 - **DevOps**: Git, Docker + Kubernetes, Slack, GitHub, Trello, GitLab
